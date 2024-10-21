@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    border: 1px solid rgb(64, 30, 17);
+    justify-content: space-between;
+
+
+}
+
+.left-side{
+    width: 400px;
+    background-color: lightblue;
+
+}
+
+.middle-side{
+  flex: 1;
+   background-color: rgb(230, 173, 220);
+
+
+}
+
+.right-side{
+    background-color: lightblue;
+
+    
+    width: 300px;
+
+
+}
+

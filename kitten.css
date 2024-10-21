@@ -1,0 +1,59 @@
+.header{
+    height: 70px;
+    background-color: rgb(217, 233, 238);
+    display: flex;
+}
+
+.left{
+    display: flex;
+    width: 300px;
+    /* background-color: rgb(237, 243, 245); */
+    align-items: center;
+   
+   
+
+
+}
+
+
+
+.kitten{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    margin-left: 40px;
+   
+    
+    
+    
+}
+
+.middle{
+    flex: 1;
+    /* background-color: lightpink; */
+}
+
+.right{
+    width: 400px;
+    display: flex;
+    /* background-color: lightblue; */
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.fb{
+    background-color: rgb(44, 113, 208);
+    border: 0px;
+    border-radius: 2px;
+    padding: 5px 8px;
+    color: white;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.message{background-color: rgb(161, 184, 205);
+    border: 0px;
+    border-radius: 2px;
+    padding: 5px 8px;
+
+}
